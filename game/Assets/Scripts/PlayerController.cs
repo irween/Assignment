@@ -62,7 +62,7 @@ public class PlayerController : MonoBehaviour
         {
             movementDirection.y = jumpSpeed;
         }
-        movementDirection.y -= gravity * Time.deltaTime;
+        movementDirection.y -= gravity;
 
         characterController.Move(movementDirection * Time.deltaTime);
 
