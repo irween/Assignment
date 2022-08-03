@@ -353,13 +353,14 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Scripts/EnemyController.cs"
+"Assets/Controllers/EnemyController.cs"
+"Assets/Controllers/PlayerController.cs"
 "Assets/Scripts/FollowPlayer.cs"
 "Assets/Scripts/NavMeshComponents/Scripts/NavMeshLink.cs"
 "Assets/Scripts/NavMeshComponents/Scripts/NavMeshModifier.cs"
 "Assets/Scripts/NavMeshComponents/Scripts/NavMeshModifierVolume.cs"
 "Assets/Scripts/NavMeshComponents/Scripts/NavMeshSurface.cs"
-"Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/PlayerManager.cs"
 -langversion:9.0
 
 /deterministic
